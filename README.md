@@ -5,10 +5,11 @@
 
 > [!NOTE]
 > 
-> Scoreboard sudah dilengkapi berbagai macam :
+> **Scoreboard sudah dilengkapi berbagai macam :**
 >
 > Scoreboard 1:
-> img src="asset/Scoreboard code/IMG_20250223_220553.jpg" width="128">
+> 
+> <img src="asset/Scoreboard code/IMG_20250223_220553.jpg" width="128">
 >
 > Kode scoreboard [Disini](https://github.com/vannnemcee/Scoreboard-kiwora/blob/main/asset/Scoreboard%20code/Scoreboard%20code.md)
 

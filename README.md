@@ -19,7 +19,7 @@
  **Download :**  
 [kiworastudio.my.id](https://kiworastudio.my.id/)
 
-## Credit:
+## Thanks To ##
 > •[🎮 KiworaToolsMC](https://github.com/KiworaID/KiworaToolsMC) (Source code)
 >
 

@@ -3,8 +3,6 @@
 
 ## Scoreboard custome
 
-====
-
 > [!NOTE]
 > 
 > Scoreboard sudah dilengkapi berbagai macam :

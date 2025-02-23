@@ -1,10 +1,12 @@
 # Hanya Atur KiworaTools
 **Hanya untuk mengedit file scoreboard,dll KiworaTools**
 
-## Fitur fitur
-Scoreboard sudah dilengkapi berbagai macam :
+## Scoreboard custome
+===
 
-<img src="asset/Scoreboard code/IMG_20250223_220553.jpg" width="128">
+> [!Scoreboard sudah dilengkapi berbagai macam] :
+> 
+> <img src="asset/Scoreboard code/IMG_20250223_220553.jpg" width="128">
 
 Kode scoreboard [Here](https://github.com/vannnemcee/Scoreboard-kiwora/blob/main/asset/Scoreboard%20code/Scoreboard%20code.md)
 

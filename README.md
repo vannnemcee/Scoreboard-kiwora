@@ -1,0 +1,13 @@
+# Hanya Atur KiworaTools
+**Hanya untuk mengedit file scoreboard,dll KiworaTools**
+
+## Fitur fitur
+Scoreboard sudah dilengkapi berbagai macam :
+
+<img src="asset/Scoreboard code/IMG_20250223_220553.jpg" width="128">
+
+## Download KiworaTools
+**Jika kamu ingin mendownload kiworaTools kamu bisa langsung ke website resminya**
+
+🌍 **Website Resmi**  
+[kiworastudio.my.id](https://kiworastudio.my.id/)

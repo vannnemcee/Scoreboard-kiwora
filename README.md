@@ -20,6 +20,6 @@
 [kiworastudio.my.id](https://kiworastudio.my.id/)
 
 ## Thanks To ##
-> •[🎮 KiworaToolsMC](https://github.com/KiworaID/KiworaToolsMC) (Source code)
+>-[🎮 KiworaToolsMC](https://github.com/KiworaID/KiworaToolsMC) (Source code)
 >
 

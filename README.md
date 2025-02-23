@@ -13,8 +13,11 @@
 >
 > Kode scoreboard [Disini](https://github.com/vannnemcee/Scoreboard-kiwora/blob/main/asset/Scoreboard%20code/Scoreboard%20code.md)
 
-## Download KiworaTools
-**Jika kamu ingin mendownload kiworaTools kamu bisa langsung ke website resminya**
+## Diwajibkan download KiworaTools 
+**Jika kamu belum mendownload kiworatools maka kamu harus mendownload kiworaTools di website resminya**
 
-🌍 **Website Resmi**  
+ **Download :**  
 [kiworastudio.my.id](https://kiworastudio.my.id/)
+
+## Thanks To:
+

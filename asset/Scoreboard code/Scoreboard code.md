@@ -1,4 +1,4 @@
-             "@BLANK",
+            "@BLANK",
             `§3${AnimationState.patterns[AnimationState.currentIndex]}§r`,
             `§l${getTitle()}§r`,
             `§b${AnimationState.underlines[AnimationState.currentIndex]}§r`,
@@ -13,8 +13,8 @@
             "§f♟ §fOnline: §c@ONLINE / @MAXON",
             "§f♦ §fDimension: §d@DIMENSION",
             "§f⏱ §fTime: @HOUR:@MINUTE",
-            "@BLANK",
             `§3${AnimationState.patterns[AnimationState.currentIndex]}§r`,
+            "@BLANK",
 
 Salin Template Text Scoreboard di atas ini
 kamu bisa juga atur text ini sesukamu

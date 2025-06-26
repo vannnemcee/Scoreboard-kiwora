@@ -1,4 +1,4 @@
-# Hanya Atur KiworaTools
+# Template Scoreboard Kiwora
 **Hanya untuk mengedit file scoreboard,dll KiworaTools**
 
 ## Scoreboard custome

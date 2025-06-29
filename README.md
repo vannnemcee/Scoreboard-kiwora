@@ -17,7 +17,7 @@
 **Jika kamu belum mendownload kiworatools maka kamu harus mendownload kiworaTools di website resminya**
 
  **Download :**  
-[kiworastudio.my.id](https://kiworastudio.my.id/)
+[kiworastudio.com](https://kiworastudio.com/pages/addons)
 
 ## Thanks To ##
 >- [🎮 KiworaToolsMC](https://github.com/KiworaID/KiworaToolsMC) (Source code)
